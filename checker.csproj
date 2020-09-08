@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Include="VitalsIndicatorCheck.cs" />
     <Compile Include="VitalsLibraries\ExpressionBooleanCheck.cs" />
+    <Compile Include="VitalsLibraries\VitalBoundaryReport.cs" />
     <Compile Include="VitalsLibraries\VitalsIndicator.cs" />
   </ItemGroup>
   <Target Name="Build">
